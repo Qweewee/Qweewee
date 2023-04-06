@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Qweewee
-- 👀 I’m interested in Mathematics and theoretical computer science.
-- 🌱 I’m currently learning CS in Xi'an,China.
+- 👋 Hi, I’m ???
